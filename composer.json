@@ -1,0 +1,13 @@
+{
+    "name": "mfyz/php-cli-example",
+    "description": "A command line script example",
+    "authors": [
+        {
+            "name": "Mehmet Fatih Yıldız",
+            "email": "fatih@mfyz.com"
+        }
+    ],
+    "require": {
+        "splitbrain/php-cli": "^1.1"
+    }
+}
